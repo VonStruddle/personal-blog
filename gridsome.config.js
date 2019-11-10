@@ -5,7 +5,6 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  host: '0.0.0.0',
   siteName: "Quentin Durantay's Blog",
   siteDescription:
     'Everything I wanna share about Product, Growth or Development.',
