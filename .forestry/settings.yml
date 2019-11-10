@@ -9,9 +9,6 @@ sections:
   label: Content
   create: all
   match: "**/*"
-- type: document
-  path: content/posts
-  label: Posts
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
