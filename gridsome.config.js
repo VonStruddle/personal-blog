@@ -5,15 +5,18 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Quentin Durantay\'s Blog',
-  siteDescription: 'Everything I wanna share about Product, Growth or Development.',
+  host: '0.0.0.0',
+  siteName: "Quentin Durantay's Blog",
+  siteDescription:
+    'Everything I wanna share about Product, Growth or Development.',
 
   templates: {
     Post: '/:title',
     Tag: '/tag/:id'
   },
 
-  plugins: [{
+  plugins: [
+    {
       // Create posts from markdown files
       use: '@gridsome/source-filesystem',
       options: {
@@ -42,9 +45,7 @@ module.exports = {
       externalLinksTarget: '_blank',
       externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
       anchorClassName: 'icon icon-link',
-      plugins: [
-        '@gridsome/remark-prismjs'
-      ]
+      plugins: ['@gridsome/remark-prismjs']
     }
   }
 }
