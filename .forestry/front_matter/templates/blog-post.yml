@@ -5,6 +5,11 @@ fields:
 - type: text
   name: title
   label: title
+- name: cover_image
+  type: file
+  config:
+    maxSize: 250
+  label: cover image
 - type: datetime
   name: date
   label: date
