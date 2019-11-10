@@ -252,7 +252,6 @@ end tell
 ```
 
 ```python
-
 words = ["hello", "world"]
 print(" ".join(words))
 ```
