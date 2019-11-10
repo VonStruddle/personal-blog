@@ -1,23 +1,23 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path:
-webhook_url:
+admin_path: 
+webhook_url: 
 sections:
-  - type: directory
-    path: content/posts
-    label: Blog Posts
-    create: documents
-    match: '**/*'
-upload_dir: src/assets/content/images
-public_path: '/src/assets/content/images'
-front_matter_path: ''
+- type: directory
+  path: content/posts
+  label: Blog Posts
+  create: documents
+  match: "**/*"
+upload_dir: static/images
+public_path: "/images"
+front_matter_path: "../src/assets/content/images"
 use_front_matter_path: false
-file_template: ':filename:'
+file_template: ":filename:"
 build:
   preview_output_directory: dist
   install_dependencies_command: npm install
   preview_docker_image: node:10
-  mount_path: '/srv'
-  working_dir: '/srv'
+  mount_path: "/srv"
+  working_dir: "/srv"
   instant_preview_command: npm run forestry:preview
