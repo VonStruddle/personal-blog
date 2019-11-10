@@ -13,7 +13,7 @@ description: Hello World !
 
 ### I'm Quentin, PM at Dolead
 
-\`\`\`python
+```python
 
 hallo = "hallo"
 
@@ -21,4 +21,4 @@ for letter in hallo:
 
     print(letter)
 
-\`\`\`
+```
