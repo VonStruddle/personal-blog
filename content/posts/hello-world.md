@@ -2,7 +2,7 @@
 title: Hello World
 cover_image: "/images/Firewatch.heic"
 date: 2019-11-10T10:00:00Z
-published: false
+published: true
 tags:
 - hello
 canonical_url: false
