@@ -13,18 +13,30 @@
 
     <p class="author__intro">
       Former Growth Engineer & Product Manager at
-      <a href="//www.dolead.com/" target="_blank">Dolead</a>
+      <a
+        href="//www.dolead.com/"
+        target="_blank"
+        rel="noopener"
+      >Dolead</a>
       <br />Co-founder & CTO/CPO at
-      <a href="//www.chasseurparticulier.com/" target="_blank">Chasseur Particuliers</a>
+      <a
+        href="//www.chasseurparticulier.com/"
+        target="_blank"
+        rel="noopener"
+      >Chasseur Particuliers</a>
       <br />Founder at
-      <a href="//www.codingformarketers.io/" target="_blank">Coding for Marketers</a>
+      <a
+        href="//www.codingformarketers.io/"
+        target="_blank"
+        rel="noopener"
+      >Coding for Marketers</a>
     </p>
 
     <p class="author__links">
-      <a href="//twitter.com/quentindty" target="_blank">Follow on Twitter</a>
-      <a href="//linkedin.com/in/qdurantay" target="_blank">LinkedIn</a>
-      <a href="//github.com/vonstruddle" target="_blank">GitHub</a>
-      <a href="mailto:quentin.durantay@gmail.com" target="_blank">Email</a>
+      <a href="//twitter.com/quentindty" target="_blank" rel="noopener">Follow on Twitter</a>
+      <a href="//linkedin.com/in/qdurantay" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="//github.com/vonstruddle" target="_blank" rel="noopener">GitHub</a>
+      <a href="mailto:quentin.durantay@gmail.com" target="_blank" rel="noopener">Email</a>
     </p>
   </div>
 </template>
