@@ -25,3 +25,5 @@ fields:
 - type: textarea
   name: description
   label: description
+pages:
+- content/posts/hello-world.md
