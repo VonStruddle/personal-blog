@@ -1,6 +1,6 @@
 ---
 title: Article from forestry
-cover_image: static/upload/amazon-home-warranty.png
+cover_image: ''
 date: 
 published: true
 tags:
@@ -19,4 +19,4 @@ Here is an article published from **forestry**.
 
 kikoo
 
-![](static/upload/rsz_1rsz_attach5017_20190527_170422.jpg)
+![](/src/assets/content/images/rsz_1rsz_attach5017_20190527_170422.jpg)
