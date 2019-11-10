@@ -19,4 +19,4 @@ Here is an article published from **forestry**.
 
 kikoo
 
-![](assets/static/rsz_1rsz_attach5017_20190527_170422.jpg)
+![](/images/rsz_1rsz_attach5017_20190527_170422.jpg)
