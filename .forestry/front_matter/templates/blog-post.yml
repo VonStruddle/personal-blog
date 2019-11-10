@@ -1,0 +1,29 @@
+---
+label: Blog post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- name: cover_image
+  type: file
+  config:
+    maxSize: 250
+  label: cover image
+- type: datetime
+  name: date
+  label: date
+- type: boolean
+  name: published
+  label: published
+- type: list
+  name: tags
+  label: tags
+- type: boolean
+  name: canonical_url
+  label: canonical_url
+- type: textarea
+  name: description
+  label: description
+pages:
+- content/posts/article-from-forestry.md
