@@ -9,9 +9,9 @@ sections:
     label: Blog Posts
     create: documents
     match: '**/*'
-upload_dir: content/posts/uploads
-public_path: content/posts/uploads
-front_matter_path: './uploads/'
+upload_dir: src/assets/content/images
+public_path: '/src/assets/content/images'
+front_matter_path: ''
 use_front_matter_path: false
 file_template: ':filename:'
 build:
