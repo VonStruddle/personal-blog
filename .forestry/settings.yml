@@ -11,7 +11,7 @@ sections:
     match: '**/*'
 upload_dir: src/assets/content/images
 public_path: '/src/assets/content/images'
-front_matter_path: ''
+front_matter_path: '../src/assets/content/images'
 use_front_matter_path: false
 file_template: ':filename:'
 build:
