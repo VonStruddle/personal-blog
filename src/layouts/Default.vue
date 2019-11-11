@@ -6,6 +6,10 @@
       </div>
 
       <div class="header__right">
+        <template v-if="showMenu">
+          <g-link to="/">Home</g-link>
+          <g-link to="/cv/">CV</g-link>
+        </template>
       </div>
     </header>
 
@@ -28,7 +32,8 @@ import Logo from '~/components/Logo.vue'
 
 export default {
   props: {
-    showLogo: { default: true }
+    showLogo: { default: true },
+    showMenu: { default:true }
   },
   components: {
     Logo
@@ -50,6 +55,10 @@ export default {
   &__right {
     display: flex;
     align-items: center;
+
+    a:not(:last-child) {
+      padding-right: 20px;
+    }
   }
 
   @media screen and (min-width: 1300px) {

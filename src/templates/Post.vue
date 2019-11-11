@@ -1,5 +1,5 @@
 <template>
-  <Layout>
+  <Layout :show-menu="false">
     <div class="post-title">
       <h1 class="post-title__text">
         {{ $page.post.title }}
