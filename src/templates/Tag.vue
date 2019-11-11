@@ -1,5 +1,5 @@
 <template>
-  <Layout>
+  <Layout :show-menu="false">
     <h1 class="tag-title text-center space-bottom">
       # {{ $page.tag.title }}
     </h1>
