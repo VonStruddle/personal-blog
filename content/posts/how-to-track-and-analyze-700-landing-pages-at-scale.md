@@ -2,7 +2,7 @@
 title: How to Track and analyze 700+ Landing Pages at scale
 cover_image: "/uploads/carlos-muza-hpjSkU2UYSU-unsplash.jpg"
 date: 2019-02-06
-published: false
+published: true
 tags:
 - CRO
 - analytics
