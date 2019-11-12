@@ -4,6 +4,10 @@ cover_image: "/uploads/carlos-muza-hpjSkU2UYSU-unsplash.jpg"
 date: 2019-02-06
 published: true
 tags:
+- landing pages
+- fullstory
+- amplitude
+- segment
 - CRO
 - analytics
 - tracking
