@@ -25,3 +25,5 @@ fields:
 - type: textarea
   name: description
   label: description
+pages:
+- content/posts/how-to-track-and-analyze-700-landing-pages-at-scale.md
