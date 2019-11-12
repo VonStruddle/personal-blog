@@ -6,15 +6,13 @@ tags:
 - Markdown
 - Test files
 canonical_url: false
-cover_image: "./images/alexandr-podvalny-220262-unsplash.jpg"
+cover_image: ''
 description: Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
   Readability, however, is emphasized above all else. A Markdown-formatted document
   should be publishable as-is, as plain text, without looking like it's been marked
   up with tags or formatting instructions.
 
 ---
-![](/uploads/Attach5017_20190527_170422.jpg)
-
 Markdown is intended to be as easy-to-read and easy-to-write as is feasible.Readability, however, is emphasized above all else. A Markdown-formatted
 document should be publishable as-is, as plain text, without looking
 like it's been marked up with tags or formatting instructions.
@@ -293,7 +291,7 @@ _single underscores_
 
 ### Code
 
-To indicate a span of code, wrap it with backtick quotes (```).
+To indicate a span of code, wrap it with backtick quotes (\`\`\`).
 Unlike a pre-formatted code block, a code span indicates code within a
 normal paragraph. For example:
 
