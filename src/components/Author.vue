@@ -18,7 +18,7 @@
         target="_blank"
         rel="noopener"
       >Dolead</a>
-      <br />Co-founder & CTO/CPO at
+      <!-- <br />Co-founder & CTO/CPO at
       <a
         href="//www.chasseurparticulier.com/"
         target="_blank"
@@ -30,8 +30,8 @@
         target="_blank"
         rel="noopener"
       >Coding for Marketers</a>
+      </p>-->
     </p>
-
     <p class="author__links">
       <a href="//twitter.com/quentindty" target="_blank" rel="noopener">Follow on Twitter</a>
       <a href="//linkedin.com/in/qdurantay" target="_blank" rel="noopener">LinkedIn</a>
